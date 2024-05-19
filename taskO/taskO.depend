@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716122814 source:d:\c++\block4\tasko\tasko.cpp
+	<iostream>
+	<vector>
+	<queue>
+
